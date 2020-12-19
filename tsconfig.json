@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "experimentalDecorators":true,
+    "noImplicitAny":true,
+    "noImplicitThis":true,
+    "baseUrl":"./",
+    "paths":{
+      "@interfaces/*":["interface/*"]
+    }
+  }
+}
